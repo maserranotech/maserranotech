@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miguel Serrano</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-- 👨‍💻 All of my projects are available at [www.miguel-serrano.me](www.miguel-serrano.me)
-
-- 📫 How to reach me **maserranotech@outlook.com**
-
-- ⚡ Fun fact **I am a biohacker**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
